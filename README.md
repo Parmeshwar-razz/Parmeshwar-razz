@@ -53,11 +53,17 @@
 ---
 
 ### 📫 Connect With Me
-
 <p align="left">
     <a href="mailto:parmeshwarrazz6221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
     <!-- Add LinkedIn, Twitter, website badges here if available -->
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/parmeshwar-rajpurohit" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+</p>
+
+
 
 ---
 
